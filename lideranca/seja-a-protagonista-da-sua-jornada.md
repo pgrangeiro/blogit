@@ -2,7 +2,12 @@
 description: >-
   Este texto foi escrito baseando-se no meu viés de mulher cis branca, crescida
   e criada em área de baixa renda. Nem tudo que está aqui pode ser condizente
-  com a sua realidade (e tudo bem discordar).
+  com a sua realidade (e tudo bem discordar). Porém, se tiver uns minutos do seu
+  tempo para absorver algo que possa te transformar de alguma maneira ou para 
+  que você possa ajudar a transformar as pessoas a sua volta, o meu objetivo aqui 
+  já terá sido alcançado. Caso queira contribuir de alguma maneira com este 
+  assunto, sinta-se a vontade na sessão de comentários ou me envie um email para 
+  uma conversa mais privada. Boa leitura!
 ---
 
 # Seja a protagonista da sua jornada
