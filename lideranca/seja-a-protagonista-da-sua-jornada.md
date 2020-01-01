@@ -11,7 +11,7 @@ Parte do processo de luta contra a desigualdade está em ocuparmos os espaços q
 
 Para realizar mudanças significativas nesses espaços, se faz mais do que necessário que nós assumamos posições de poder. Nós já conhecemos as barreiras, as armadilhas, para chegarmos onde estamos, então é nossa missão removermos estes empencilhos para facilitar a jornada de nossas irmãs. Eu defendo a liderança feminina como forma de promover a igualdade entre gêneros no mercado de tecnologia. Se não é o do teu agrado tamanha ambição, cogite esta possibilidade numa forma de protesto. Seja um número a mais contra a desigualdade de gênero.
 
-## Uma jornada para dentro de si
+### Uma jornada para dentro de si
 
 Sei que não é fácil desenvolver este desejo pela liderança do dia para a noite. A sociedade no qual estamos inseridas já possui um molde pré definido no que tange a feminilidade. Antes mesmo de nossa concepção, já possuímos um valor e expectativas a serem cumpridas e a não correspondência com estes requisitos nos leva a uma vida inteira de atrito com as paredes deste molde que tentam nos encaixar \(é importante salientar que estas mesmas estruturas também afetam aos homens \[3\]\). Será necessário desconstruir muitos preconceitos que foram plantados na nossa formação como indivíduo de gênero feminino.
 
@@ -19,25 +19,25 @@ Sei que não é fácil desenvolver este desejo pela liderança do dia para a noi
 
 Será necessário entender qual parcela de você é porque quer ou é porque te induziram a ser. A busca pela liderança torna-se então uma jornada de autoconhecimento.
 
-## Desenvolva a sua autonomia
+### Desenvolva a sua autonomia
 
 Minimamente se autoconhecendo, você já deve ser capaz de identificar quais são suas metas. Tente se imaginar em 5, 10, 15 anos, pense onde você gostaria de estar profissionalmente, pessoalmente. Defina quais são seus objetivos e quais são os seus irrevogáveis \(aquilo que, pode não fazer parte de sua meta, mas você não abriria mão de ter para atingí-las\). Depois, ponha em prática. Converse, faça cursos, leia, trace o seu caminho e principalmente comece a andar por ele. Preocupe-se com a sua jornada, sempre pergunte-se se aquilo que está fazendo faz parte do combinado consigo mesma. E lembre-se: a maior interessada na sua jornada é você!
 
 > Pense grande, comece pequeno, aja rápido - Sunil Mundra
 
-## Errar faz parte do processo
+### Errar faz parte do processo
 
 Um dos grandes desafios da mulher moderna é saber lidar com a inadequação. Sentir que não corresponde às expectativas \(criadas pelos outros ou por si própria\) pode desencadear diversos problemas psicológicos\[4\]. Nós mulheres tendemos a sofrer mais com esse comportamento\[5\] principalmente pelo acúmulo de responsabilidades. Além de todas as metas pessoais ainda temos que corresponder às expectativas criadas pelo papel de gênero que devemos desempenhar na sociedade. Para manter-se saudável é necessário desapegar deste sentimento. Precisamos entender que está tudo bem não performar bem em tantos papéis, não atender às expectativas. Além disso, quanto à projeções pessoais, o processo de autoconhecimento é constante o que acarreta alguns desvios na nossa jornada. E tudo bem. O erro é como uma moeda e você pode decidir olhar somente para o lado da frustração, mas o lado do aprendizado ainda vai continuar lá.
 
-## Identifique aliados
+### Identifique aliados
 
 Uma coisa óbvia: durante a sua jornada você irá conhecer pessoas. Outra não tão óbvia \(dependendo do seu nível de ingenuidade\): a maioria delas estão focadas demais em sua própria jornada. Somente uma pequena parcela das pessoas que você irá cruzar são capazes de guiar a própria jornada e apoiar a dos demais. Então se você conhecer alguém que está aberto a compartilhar o próprio tempo para facilitar a sua jornada de alguma maneira, agarre-a e guarde-a em um potinho dentro do seu coração, pois essas pequenas centelhas de luz são raras. E assim que possível retribua a ação, seja para quem te estendeu a mão ou para quem está vindo caminhando atrás de você.
 
-## Aprenda a pedir ajuda
+### Aprenda a pedir ajuda
 
 Em um mundo competitivo, pedir ajuda torna-se um tabu. Muitas pessoas não estão abertas para demonstrar suas fraquezas, muitas ainda encaram no acumulo de tarefas uma forma de demonstrar capacidade. Antes de privilegiar a competitividade, devemos sempre nos atentar que vivemos em sociedade e ninguém é capaz de realizar nada sozinho \(e continuar saudável depois disso\). Saber identificar as suas limitações e aprender a pedir ajuda é um ato de coragem e humildade. Seus erros irão evidenciar as suas limitações e se utilize de seus aliados para superar os desafios.
 
----
+## 
 
 E você mulher, que já está ocupando uma posição de liderança, quais outras dicas você daria?
 
