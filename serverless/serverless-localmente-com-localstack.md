@@ -189,5 +189,3 @@ $ curl -X POST http://localhost:4567/restapis/lmy32f5pc0/local/_user_request_/pa
 Não deixe de conferir a documentação completa do [aws cli](https://aws.amazon.com/cli/), para ter acesso aos recursos da AWS, sempre substituindo pelo wrapper _awslocal_ para utilizá-los localmente.
 {% endhint %}
 
-Dúvidas? Sugestões? Deixe aí nos comentários :\)
-
