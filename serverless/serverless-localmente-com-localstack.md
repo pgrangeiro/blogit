@@ -9,6 +9,8 @@ description: >-
 
 [LocalStack](https://github.com/localstack/localstack) é uma ferramenta, escrita em python, que se utiliza de containers Docker para simular o ambiente serverless da AWS. Em conjunto com o [awscli-local](https://github.com/localstack/awscli-local), seremos capazes de reproduzir todo o ecossistema da AWS para testar o desenvolvimento das nossas aplicações serverless localmente :\)
 
+> O serverless-framework é uma alternativa prática para testar aplicações serverless caso você não se importe em manter uma dependência JavaScript no seu projeto, não ligue pra todos os arquivos gerados automaticamente e nem com as configurações default dos recursos que são feitas pelo framework.
+
 ## Instalação
 
 Antes de instalar o LocalStack, você precisará instalar os seguintes requisitos:
